@@ -1,8 +1,8 @@
-# Galaxy Zoo And D3
+## Galaxy Zoo And D3
 
 Using D3 to Visualise Galaxy Zoo data
 
-## Getting Started
+### Getting Started
 
 The _script_ folder contains scripts to geenrate data from the Galaxy Zoo DB.
 The _public_ folder contains the websit eitself and is split into _index.html_, which is the main file and subsidiary _js_, _css_ and _data_ folders which should be easy to understand.
