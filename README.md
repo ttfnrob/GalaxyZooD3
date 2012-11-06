@@ -9,10 +9,10 @@ The _public_ folder contains the websit eitself and is split into _index.html_, 
 
 Simply open the file index.html as a webpage to view this locally. You might need to host the public folde ron a server (e.g. Dropbox or S3) to get everything to display properly.
 
-## D3
+### D3
 
 Load sof examples and background information can be found on the main d3.js site at http://d3js.org
 
-## Sankey Diagrams
+### Sankey Diagrams
 
 Currently this repo shows just Sankey diagrams. Data have bene generated for a selection of interesting Galaxy Zoo objects. Thesed ata are found in the data directory.
